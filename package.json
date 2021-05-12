@@ -34,7 +34,7 @@
     "@ionic/lab": "^1.0.9",
     "@ionic/storage": "^2.2.0",
     "call-number": "^1.0.1",
-    "chart.js": "^2.7.2",
+    "chart.js": "^2.9.4",
     "contacts": "^1.0.0",
     "cordova-android": "7.0.0",
     "cordova-browser": "5.0.3",
